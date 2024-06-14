@@ -1,4 +1,10 @@
-## Hi there 👋
+Oiiii
+
+Meu nome é Duda
+Estou aprendendo o Alura.
+
+
+
 
 <!--
 **3abida22/3abida22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
